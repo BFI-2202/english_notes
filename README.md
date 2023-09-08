@@ -2,6 +2,16 @@
 
 Конспекты занятий по дисциплине «английский язык»
 
+## Второй курс, первый семестр
+
+### Сентябрь
+
+| Дата       | Рассмотренные темы                               | Ссылка на конспект |
+|------------|--------------------------------------------------|--------------------|
+| 01.09.2023 | Неличная форма глаголов, инфинитив; резюме | [markdown](years/year_02/semester_01/september/01-09-2023.md), [pdf](years/year_02/semester_01/september/render/01-09-2023.pdf)       |
+| **Общий документ** | --- | [markdown](years/year_02/semester_01/september/september.md), [pdf](years/year_02/semester_01/september/render/september.pdf) |
+
+
 ## Первый курс, второй семестр
 
 ### Май
@@ -10,7 +20,6 @@
 |------------|--------------------------------------------------|--------------------|
 | 21.05.2023 | Информация к экзамену | [tex](years/year_01/semester_02/may/sources/main.tex), [pdf](years/year_01/semester_02/may/renders/main.pdf)       |
 | **Общий документ** | --- | [tex](years/year_01/semester_02/may/sources/main.tex), [pdf](years/year_01/semester_02/may/renders/main.pdf) |
-
 
 ### Апрель
 
