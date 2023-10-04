@@ -10,6 +10,7 @@
 |------------|--------------------------------------------------|--------------------|
 | 01.09.2023 | Неличная форма глаголов, инфинитив; резюме | [markdown](years/year_02/semester_01/september/01-09-2023.md), [pdf](years/year_02/semester_01/september/render/01-09-2023.pdf)       |
 | 16.09.2023 | Система времен английского глагола в действительном залоге; домашнее задание | [markdown](years/year_02/semester_01/september/16-09-2023.md), [pdf](years/year_02/semester_01/september/render/16-09-2023.pdf)       |
+| 30.09.2023 | Present Simple (Continuous), Past Simple (Continuous); домашнее задание | [tex](years/year_02/semester_01/september/30-09-2023.tex), [pdf](years/year_02/semester_01/september/render/30-09-2023.pdf) |
 | **Общий документ** | --- | [markdown](years/year_02/semester_01/september/september.md), [pdf](years/year_02/semester_01/september/render/september.pdf) |
 
 
