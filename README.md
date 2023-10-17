@@ -4,6 +4,14 @@
 
 ## Второй курс, первый семестр
 
+### Октябрь
+
+| Дата       | Рассмотренные темы                               | Ссылка на конспект |
+|------------|--------------------------------------------------|--------------------|
+| 14.10.2023 | Digital rights; домашнее задание | [tex](years/year_02/semester_01/october/sources/14-10-2023.tex), [pdf](years/year_02/semester_01/october/renders/14-10-2023.pdf) |
+| **Общий документ** | --- | [tex](years/year_02/semester_01/october/sources/main.tex), [pdf](years/year_02/semester_01/october/renders/main.pdf) |
+
+
 ### Сентябрь
 
 | Дата       | Рассмотренные темы                               | Ссылка на конспект |
