@@ -10,7 +10,7 @@
 
 | Дата | Темы | Ссылки |
 |---|---|---|
-| 04.02.2024 | О преподавателе и о том, как получить зачет | [tex](https://github.com/BFI-2202/english_notes/blob/main/year_02/semester_02/month_02/sources/04-02-2024.tex), [pdf](https://github.com/BFI-2202/english_notes/blob/main/year_02/semester_02/month_02/renders/04-02-2024.pdf) |
+| 04.02.2024 | О экзаменационном билете; The MTUCI; домашнее задание | [tex](https://github.com/BFI-2202/english_notes/blob/main/year_02/semester_02/month_02/sources/04-02-2024.tex), [pdf](https://github.com/BFI-2202/english_notes/blob/main/year_02/semester_02/month_02/renders/04-02-2024.pdf) |
 | **Общий документ** | --- | [tex](https://github.com/BFI-2202/english_notes/blob/main/year_02/semester_02/month_02/sources/main.tex), [pdf](https://github.com/BFI-2202/english_notes/blob/main/year_02/semester_02/month_02/renders/main.pdf) |
 
 ### 1 семестр
