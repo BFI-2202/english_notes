@@ -2,9 +2,20 @@
 
 Конспекты занятий по дисциплине «английский язык»
 
-## Второй курс, первый семестр
+## 2 курс
 
-### Октябрь
+### 2 семестр
+
+#### Февраль
+
+| Дата | Темы | Ссылки |
+|---|---|---|
+| 04.02.2024 | О преподавателе и о том, как получить зачет | [tex](https://github.com/BFI-2202/english_notes/blob/main/year_02/semester_02/month_02/sources/04-02-2024.tex), [pdf](https://github.com/BFI-2202/english_notes/blob/main/year_02/semester_02/month_02/renders/04-02-2024.pdf) |
+| **Общий документ** | --- | [tex](https://github.com/BFI-2202/english_notes/blob/main/year_02/semester_02/month_02/sources/main.tex), [pdf](https://github.com/BFI-2202/english_notes/blob/main/year_02/semester_02/month_02/renders/main.pdf) |
+
+### 1 семестр
+
+#### Октябрь
 
 | Дата       | Рассмотренные темы                               | Ссылка на конспект |
 |------------|--------------------------------------------------|--------------------|
@@ -13,7 +24,7 @@
 | **Общий документ** | --- | [tex](years/year_02/semester_01/october/sources/main.tex), [pdf](years/year_02/semester_01/october/renders/main.pdf) |
 
 
-### Сентябрь
+#### Сентябрь
 
 | Дата       | Рассмотренные темы                               | Ссылка на конспект |
 |------------|--------------------------------------------------|--------------------|
@@ -23,25 +34,27 @@
 | **Общий документ** | --- | [markdown](years/year_02/semester_01/september/september.md), [pdf](years/year_02/semester_01/september/render/september.pdf) |
 
 
-## Первый курс, второй семестр
+## Первый курс
 
-### Май
+### Второй семестр
+
+#### Май
 
 | Дата       | Рассмотренные темы                               | Ссылка на конспект |
 |------------|--------------------------------------------------|--------------------|
 | 21.05.2023 | Информация к экзамену | [tex](years/year_01/semester_02/may/sources/main.tex), [pdf](years/year_01/semester_02/may/renders/main.pdf)       |
 | **Общий документ** | --- | [tex](years/year_01/semester_02/may/sources/main.tex), [pdf](years/year_01/semester_02/may/renders/main.pdf) |
 
-### Апрель
+#### Апрель
 
 | Дата       | Рассмотренные темы                               | Ссылка на конспект |
 |------------|--------------------------------------------------|--------------------|
 | 05.04.2023 | Домашнее задание | [tex](years/year_01/semester_02/april/sources/05-04-2023.tex), [pdf](years/year_01/semester_02/april/renders/05-04-2023.pdf)       |
 | **Общий документ** | --- | [tex](years/year_01/semester_02/april/sources/main.tex), [pdf](years/year_01/semester_02/april/renders/main.pdf) |
 
-## Первый курс, первый семестр
+### Первый семестр
 
-### Октябрь
+#### Октябрь
 
 | Дата       | Рассмотренные темы                               | Ссылка на конспект |
 |------------|--------------------------------------------------|--------------------|
@@ -49,7 +62,7 @@
 | 19.10.2022 | Perfect tenses | [tex](years/year_01/semester_01/october/19-10-2022.tex), [pdf](years/year_01/semester_01/october/render/19-10-2022.pdf)       |
 | **Общий документ** | --- | [tex](years/year_01/semester_01/october/october.tex), [pdf](years/year_01/semester_01/october/render/october.pdf) |
 
-### Сентябрь
+#### Сентябрь
 
 | Дата       | Рассмотренные темы                               | Ссылка на конспект |
 |------------|--------------------------------------------------|--------------------|
